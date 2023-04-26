@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+html {
+    background-color: black;
+    font-family: "Press Start 2P", sans-serif;
+    color: red;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+    overflow: hidden;
+    background-color: black;
+    width: auto;
+}  
+
+li {
+    margin: auto;
+    padding: auto;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width: 352px;
+}
+
+li a:hover {
+    background-color: red;
+}
+
+.title {
+    font-size: 50px;
+}
+
+header {
+    padding-top: 100px;
+}
+
+img {
+    display: block;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+  }
+
+/*body {
+    
+}*/
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    line-height: 1.5;
+}
+
